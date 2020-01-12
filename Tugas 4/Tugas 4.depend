@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1520180375 source:d:\a file tri\pap1\tugas 4\main.c
+	"header.h"
+
+1520180376 d:\a file tri\pap1\tugas 4\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1520180376 source:e:\alpro\pap1\tugas 4\main.c
+	"header.h"
+
+1520180378 e:\alpro\pap1\tugas 4\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1520214608 source:e:\alpro\pap1\tugas 4\fungsi.c
+	"header.h"
+
+1520220350 source:g:\alpro\pap1\tugas 4\main.c
+	"header.h"
+
+1520220386 g:\alpro\pap1\tugas 4\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1520246106 source:g:\alpro\pap1\tugas 4\fungsi.c
+	"header.h"
+
